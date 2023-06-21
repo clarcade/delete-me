@@ -1,13 +1,15 @@
 {
-  "title": "Academy",
-  "id": "academy",
-  "environments": [
-    "dev",
-    "preview",
-    "live"
-  ],
-  "event": "academy",
   "plugins": [
+		{
+			"title": "Academy",
+			"id": "academy",
+			"environments": [
+				"dev",
+				"preview",
+				"live"
+			],
+			"event": "academy"
+		},
     {
       "id": "library",
       "title": "Library",

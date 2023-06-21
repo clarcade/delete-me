@@ -1,4 +1,12 @@
 {
+  "title": "Academy",
+  "id": "academy",
+  "environments": [
+    "dev",
+    "preview",
+    "live"
+  ],
+  "event": "academy",
   "plugins": [
     {
       "id": "library",
